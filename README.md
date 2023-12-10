@@ -12,7 +12,7 @@ O projeto foi desenvolvido em Node.js utilizando EJS para exibir as telas de int
 
 # Iniciando o Servidor
 
-O próximo passo é iniciar o servidor com o comando:
+Para iniciar o servidor você deve inserir o comando abaixo :
 
 ```bash
 npm run dev
